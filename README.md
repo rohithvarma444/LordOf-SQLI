@@ -44,9 +44,3 @@ Writeups for Rubiya Lord Of SQLInjection.
 - *revenant*
 - *yeti*
 
- mummy
- kraken
- cerberus
- siren
- incubus
- AllClear
