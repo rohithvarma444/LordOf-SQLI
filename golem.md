@@ -21,7 +21,6 @@
 ```
 Using %% which denotes to match the character which is present at any position in the password.Using LIKE instead of =.
 
-***
 ```
 import requests
 import string
