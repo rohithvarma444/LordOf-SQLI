@@ -14,7 +14,8 @@
   highlight_file(__FILE__); 
 ?>
 ```
-Using %__ to check the password matching to n th character in this case searching for 3 character is 2.
+Using %__ to check the password matching to n th character in this case searching for 3 character.
+
 
 ```
 import requests
