@@ -1,1 +1,1 @@
-[Lordofsqli](https://los.rubiya.kr/)
+Link to the Challenges [Lordofsqli](https://los.rubiya.kr/)
